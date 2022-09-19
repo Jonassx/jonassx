@@ -6,7 +6,7 @@
 
 - 🔭 T.I na concessionária Volkswagen;
 
-- ▶️ Visualize meu projeto no Figma (https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW);
+- ▶️ Visualize meu projeto no Figma  <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW" target="_blank"> My Projects</a>;
 
 - ⚡ HTML, CSS e Javascript;
 
