@@ -1,10 +1,10 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Jonassx/e1d76c49d373cebb59b1e8b515b9f90a/raw/aaa0ed55fd19567b25d69c93d01a24d80ab91f86/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Jonas</h1>
 
 
 - 🔥 Estudando programação;
 
-- 🔭 T.I na concessionária Volkswagen;
+- 🔭 T.I nas concessionárias Volkswagen e Mitsubishi;
 
 - ▶️ Visualize meu projeto no Figma  <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW" target="_blank"> My Projects</a>;
 
