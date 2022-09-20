@@ -4,11 +4,11 @@
 
 - 🔥 Estudando programação;
 
-- 🔭 T.I nas concessionárias Volkswagen e Mitsubishi;
+- ⚡ T.I nas concessionárias Volkswagen e Mitsubishi;
 
-- ▶️ Visualize meu projeto no Figma  <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW" target="_blank"> My Projects</a>;
+- ▶️ Visualize meus projetos no Figma  <a href="https://www.figma.com/file/3AbBu6frmkoT4MI23YxjEm/Lading-Page-NLW" target="_blank"> My Projects</a>;
 
-- ⚡ HTML, CSS e Javascript;
+- 🔭 HTML, CSS e Javascript;
 
 - 👨‍💻 Design with Figma and Photoshop.
 
